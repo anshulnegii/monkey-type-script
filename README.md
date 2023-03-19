@@ -9,7 +9,11 @@ This is a simple bot script that uses Puppeteer to automate typing on [Monkeytyp
 ```
 npm install puppeteer
 ```
-3. Run the script: `node monkeytype.js`\ This will launch a new instance of Chrome controlled by Puppeteer and start typing on Monkeytype.
+3. Run the script:
+```
+node monkeytype.js
+```
+This will launch a new instance of Chrome controlled by Puppeteer and start typing on Monkeytype.
 
 ## Usage
 
